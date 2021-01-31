@@ -10890,6 +10890,43 @@ a, img {
 	
 }
 
+#priya:hover {
+	color:#F7E626;
+}
+
+#pranay:hover {
+	color:#F7E626;
+}
+
+#footer.yellow-link:hover {
+	color:#F7E626;
+}
+
+#link1:hover {
+	color:#F7E626;
+}
+
+#link2:hover {
+	color:#F7E626;
+}
+
+#link3:hover {
+	color:#F7E626;
+}
+
+#link4:hover {
+	color:#F7E626;
+}
+
+/* Gradient transparent - color - transparent */
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(46, 44, 44, 0.1), rgba(46, 44, 44, 0.5), rgba(46, 44, 44, 0.1));
+}
+
+
 /* -------------------------------------------------- 
 	custom for 320px & 480px 
 	/* -------------------------------------------------- */
@@ -11112,3 +11149,4 @@ a, img {
 	background-attachment:scroll;
 	}
 }
+
